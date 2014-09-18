@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.2" type="module" method="upgrade">
+	<author>Matt Thomas</author>
+	<authorEmail>matt@betweenbrain.com</authorEmail>
+	<authorUrl>http://betweenbrain.com</authorUrl>
+	<copyright>(C) 2014 betweenbrain llc. All rights reserved.</copyright>
+	<creationDate>September 18, 2014</creationDate>
+	<description>MOD_SCROLLDOWN_DESC</description>
+	<license>GNU/GPL v2 or later</license>
+	<name>mod_scrolldown</name>
+	<version>1.0</version>
+
+	<files>
+		<filename module="mod_scrolldown">mod_scrolldown.php</filename>
+		<folder>language</folder>
+		<folder>tmpl</folder>
+	</files>
+
+	<media folder="media" destination="mod_scrolldown">
+		<folder>css</folder>
+		<folder>js</folder>
+	</media>
+
+</extension>
