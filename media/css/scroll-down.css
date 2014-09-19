@@ -15,7 +15,7 @@ body #toBottom {
 	position   : fixed;
 	z-index    : 101;
 	right      : 0px;
-	top        : 0px;
+	bottom     : 0px;
 	background : #607890;
 	display    : none;
 	cursor     : pointer;
