@@ -5,6 +5,8 @@
  * Support    https://github.com/betweenbrain/
  * Copyright  Copyright (C) 2014 betweenbrain llc. All Rights Reserved.
  * License    GNU GPL v2 or later
+ *
+ * Based on code by http://www.joomlabamboo.com from their New Lifestyle template
  */
 
 jQuery(document).ready(function () {
